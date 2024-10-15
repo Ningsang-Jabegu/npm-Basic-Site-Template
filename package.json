@@ -1,0 +1,24 @@
+{
+  "name": "@ningsangjabegu/basic-site-template",
+  "version": "1.0.0",
+  "description": "A reusable template for starting new projects with plain HTML, CSS, and JavaScript. This package contains three essential files: index.html, normalize.css style.css, and script.js, organized with a basic folder structure for ease of use.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ningsang-Jabegu/npm-Basic-Site-Template-package.git"
+  },
+  "keywords": [
+    "Basic",
+    "Site",
+    "Template"
+  ],
+  "author": "Ningsang Jabegu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ningsang-Jabegu/npm-Basic-Site-Template-package/issues"
+  },
+  "homepage": "https://github.com/Ningsang-Jabegu/npm-Basic-Site-Template-package#readme"
+}
